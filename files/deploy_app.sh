@@ -14,7 +14,7 @@ cat << EOM > /var/www/html/index.html
 <<<<<<< HEAD
   Welcome to ${PREFIX}'s app. HI - Great news This Week!!!. 
 =======
-  Welcome to ${PREFIX}'s app. This is a first change - to this page!
+  Welcome to ${PREFIX}'s app. This is a 1 change - to this page!
 >>>>>>> 0eecc47d42cca1a08619f8e20e49594c6df5d95a
   <!-- END -->
   
