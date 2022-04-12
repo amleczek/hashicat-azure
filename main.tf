@@ -10,11 +10,7 @@ terraform {
 
 provider "azurerm" {
    
-<<<<<<< HEAD
-   
-=======
 
->>>>>>> 99c9bdafbd55833310cbe438ca544852c05626c2
   features {}
 }
 
